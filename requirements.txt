@@ -1,0 +1,11 @@
+langchain
+langchain_community
+ipykernel
+openai
+pydantic    
+python-dotenv 
+pytest-asyncio
+pypdf
+beautifulsoup4
+arxiv
+pymupdf
